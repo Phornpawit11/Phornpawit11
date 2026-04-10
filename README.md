@@ -1,8 +1,6 @@
 # Hi there, I'm Earth Phornpawit 👋
 
 📱 Mobile Developer who enjoys building clean, scalable, and thoughtful digital products.  
-I love turning ideas into smooth user experiences, especially on mobile, while also exploring modern frontend development for the web.
-
 🚀 I enjoy working on apps that feel simple, polished, and practical.  
 🎯 My focus is writing maintainable code, designing reusable systems, and creating interfaces that are easy to use and easy to grow.  
 💡 I’m especially interested in mobile architecture, local-first experiences, and developer-friendly project structure.
@@ -16,9 +14,10 @@ I love turning ideas into smooth user experiences, especially on mobile, while a
 - 🌱 Currently improving my skills in mobile architecture, UI systems, and scalable app structure
 - 🔐 Interested in authentication and secure session flows with Keycloak, OAuth, and token management
 - 💳 Exploring in-app purchase flows and mobile monetization features
+- 🧪 Passionate about building reliable apps and ensuring code stability through regular unit testing (Jest, React Native Testing Library)
 - ✨ I like products that feel minimal, clear, and useful
 - 🔍 I care about both code quality and user experience
-
+  
 ---
 
 ## 🛠 Tech Stack
@@ -57,7 +56,12 @@ I love turning ideas into smooth user experiences, especially on mobile, while a
 
 ### 💳 Monetization
 - In-App Purchase
-
+  
+### 🧪 Testing
+- Jest
+- React Native Testing Library
+- Flutter Test
+  
 ### 🧰 Tools
 - Widgetbook
 - Storybook
@@ -74,7 +78,7 @@ I love turning ideas into smooth user experiences, especially on mobile, while a
 - 📲 Building mobile experiences that feel intuitive
 - 🔐 Authentication and secure mobile session management
 - 💳 In-app purchase and mobile monetization flows
-
+- 🛡️ Delivering bug-free experiences through robust unit testing
 ---
 
 ## ❤️ What I Enjoy
@@ -83,6 +87,7 @@ I love turning ideas into smooth user experiences, especially on mobile, while a
 - Exploring better state management patterns
 - Improving UI structure and user flow
 - Making projects easier to maintain over time
+- Writing reliable unit tests to build software with confidence
 - Learning by shipping real features
 
 ---
