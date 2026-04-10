@@ -1,16 +1,32 @@
-## Hi there 👋
+# Earth Phornpawit
 
-<!--
-**Phornpawit11/Phornpawit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile Developer focused on building clean, scalable, and user-friendly applications.
 
-Here are some ideas to get you started:
+I enjoy crafting mobile experiences with Flutter and React Native, while also working across modern frontend stacks for web products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Mobile**
+Flutter, React Native, Dart, Expo
+
+**Frontend**
+Next.js, React.js, JavaScript, TypeScript, HTML5, Tailwind CSS
+
+**State Management**
+Riverpod, Riverpod CE, Flutter Hooks, GetX, Zustand
+
+**Data & Persistence**
+Hive, Hive CE, SQLite, Retrofit
+
+**Tools**
+Widgetbook, Storybook
+
+## Current Focus
+
+- Building maintainable mobile architecture
+- Creating minimal and polished UI
+- Improving developer workflow and reusable components
+
+## Connect
+
+- GitHub: [Phornpawit11](https://github.com/Phornpawit11)
