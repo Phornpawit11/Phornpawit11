@@ -14,7 +14,8 @@ I love turning ideas into smooth user experiences, especially on mobile, while a
 - 📛 Name: Earth Phornpawit
 - 💼 Role: Mobile Developer
 - 🌱 Currently improving my skills in mobile architecture, UI systems, and scalable app structure
-- 🧠 I enjoy learning by building real projects
+- 🔐 Interested in authentication and secure session flows with Keycloak, OAuth, and token management
+- 💳 Exploring in-app purchase flows and mobile monetization features
 - ✨ I like products that feel minimal, clear, and useful
 - 🔍 I care about both code quality and user experience
 
@@ -48,6 +49,14 @@ I love turning ideas into smooth user experiences, especially on mobile, while a
 - Hive CE
 - SQLite
 - Retrofit
+  
+### 🔒 Auth & Security
+- Keycloak
+- OAuth
+- Token Management
+
+### 💳 Monetization
+- In-App Purchase
 
 ### 🧰 Tools
 - Widgetbook
@@ -63,6 +72,8 @@ I love turning ideas into smooth user experiences, especially on mobile, while a
 - 💾 Local storage and offline-friendly app structure
 - ⚡ Smooth developer workflow
 - 📲 Building mobile experiences that feel intuitive
+- 🔐 Authentication and secure mobile session management
+- 💳 In-app purchase and mobile monetization flows
 
 ---
 
