@@ -21,7 +21,7 @@
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, 45px); gap: 20px 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="64" height="64" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="64" height="64" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="64" height="64" alt="Next.js" />
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="64" height="64" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"  width="64" height="64" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" width="64" height="64" alt="Storybook" />
-</p>
+</div>
 
 ### 📱 Mobile
 - Flutter
