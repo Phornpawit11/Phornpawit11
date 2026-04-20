@@ -21,7 +21,7 @@
 ---
 
 ## 🛠 Tech Stack
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="64" height="64" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="64" height="64" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="64" height="64" alt="Next.js" />
